@@ -1,8 +1,4 @@
-# PharmaSecure
-PharmaSecure is an application that provides a secured, homomorphic way of storing crucial, sensitive pharmaceutical data on the cloud. It is an application that we implemented as our final year project for Bachelor's Degree in Computer Engineering.
-
-Our research is published in [Web Of Science journal](http://sersc.org/journals/index.php/IJFGCN/article/view/17887) and has received the [Best paper award](https://photos.app.goo.gl/hmBGN9uLPGHXrnqC8) at ICCTAW conference (Computing technologies for Transforming the Automated World) held in April 2020
-
+# HealthCare 
 ## Homomorphic Encryption
 Homomorphic Encryption is an encryption technique that allows specific computations on
 data in its encrypted form (cipher texts). The result is always encrypted data (cipher text),
